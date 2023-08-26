@@ -1,0 +1,482 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 18867,
+      "max": [
+        103.75873565673828,
+        106.51907348632813,
+        104.5341796875
+      ],
+      "min": [
+        -105.8593521118164,
+        -107.37864685058594,
+        -106.42081451416016
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 226404,
+      "componentType": 5126,
+      "count": 18867,
+      "max": [
+        0.9999980330467224,
+        0.9999879002571106,
+        0.9999983310699463
+      ],
+      "min": [
+        -0.9999953508377075,
+        -0.9999957084655762,
+        -0.9999967217445374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 18867,
+      "max": [
+        1.0,
+        0.38154104351997375,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.412075012922287,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 18867,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 109080,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Adamante (https://sketchfab.com/Adamant6686)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ice-cube-9843aff0343c45ad9aa2ba671b8feda6",
+      "title": "Ice Cube"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 436320,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 150936,
+      "byteOffset": 436320,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 452808,
+      "byteOffset": 587256,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 301872,
+      "byteOffset": 1040064,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1341936,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Ice_Cube_diffuse.png"
+    },
+    {
+      "uri": "textures/Ice_Cube_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Ice_Cube_normal.jpeg"
+    },
+    {
+      "uri": "textures/Ice_Cube_occlusion.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.2058953387865588,
+            0.27142596177634076,
+            0.3992229596363603,
+            0.3
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "Ice_Cube",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.1
+      },
+      "occlusionTexture": {
+        "index": 3
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube_Ice Cube_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.828568672208042e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        3.828568672208042e-16,
+        0.0,
+        0.0,
+        -1.665334536937735e-16,
+        1.1102230246251562e-16,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Ice.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        8,
+        11,
+        14
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.6872747493111706,
+        -0.36977175587817257,
+        -0.6252377687840369,
+        0.0,
+        0.27352126031035473,
+        0.9291226229915904,
+        -0.24883181388934572,
+        0.0,
+        0.672933532466248,
+        -1.3877787807814457e-17,
+        0.7397029544908531,
+        0.0,
+        -508.2309875488281,
+        306.6805419921875,
+        516.7344970703125,
+        1.0
+      ],
+      "name": "CINEMA_4D_Editor"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -0.11752259566251544,
+        -0.05098507235431127,
+        0.991760536574112,
+        0.0,
+        -0.8764388917958414,
+        0.4749144935701055,
+        -0.07944238632321832,
+        0.0,
+        -0.4669510771552221,
+        -0.8785537810481927,
+        -0.10049848431445119,
+        0.0,
+        -1097.2562255859375,
+        562.0260620117188,
+        -101.1307144165039,
+        1.0
+      ],
+      "name": "Light_2"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_6"
+    },
+    {
+      "name": "Object_7"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        -0.7821065504334448,
+        0.40616519323088723,
+        -0.47258774801809433,
+        0.0,
+        0.6167842107539211,
+        0.6126539429875575,
+        -0.49419872875844306,
+        0.0,
+        0.08880642507026393,
+        -0.6780007241511727,
+        -0.7296769401020737,
+        0.0,
+        368.2508544921875,
+        475.0541687011719,
+        -129.56471252441406,
+        1.0
+      ],
+      "name": "Light_1"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_9"
+    },
+    {
+      "name": "Object_10"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        0.7432732514248646,
+        0.16018820267439693,
+        -0.6495264532259301,
+        0.0,
+        0.3227535994417051,
+        0.7645772948750754,
+        0.5578993405704431,
+        0.0,
+        0.5859820711964944,
+        -0.6243086575448544,
+        0.5165885329261658,
+        0.0,
+        396.0320739746094,
+        486.485107421875,
+        487.8692626953125,
+        1.0
+      ],
+      "name": "Light"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_12"
+    },
+    {
+      "name": "Object_13"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 0,
+      "name": "Cube_Ice Cube_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
