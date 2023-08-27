@@ -8,7 +8,7 @@ const Time = require("Time");
 const find = e => S.root.findFirst(e);
 
 
-const planeNull = find("plane0");
+const lookatNull = find("lookatNull");
 const followNull = find("followNull");
 const targetNull = find("targetNull");
 
@@ -42,19 +42,13 @@ const lookAt = (_target, _lookerParent, _looker) => {
 };
 
 
-Promise.all([targetNull, followNull, planeNull]).then(function (objects) {
-  const [target, follow, plane] = objects;
-
-  // Random animation
-  const scl = R.val(0.1);
-  target.transform.x = R.sin(Time.ms.mul(R.val(0.001))).mul(scl);
-  target.transform.y = R.cos(Time.ms.mul(R.val(0.0007))).mul(scl);
-  target.transform.z = R.sin(Time.ms.mul(R.val(0.0005))).mul(scl);
+Promise.all([targetNull, followNull, lookatNull]).then(function (objects) {
+  const [target, follow, lookat] = objects;
 
   // Atualiza a rotação do pivot a cada quadro
   Time.ms.monitor().subscribe(() => {
     // Do the look at
-    lookAt(target, follow, plane);
+    lookAt(target, follow, lookat);
   });
 
 
