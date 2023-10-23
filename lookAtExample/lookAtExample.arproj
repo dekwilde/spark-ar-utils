@@ -12,609 +12,14 @@
       "modelName": "textures"
     },
     {
-      "children": [
-        {
-          "alphaTestEnabled": false,
-          "alphaTestThreshold": 0,
-          "blendMode": 5,
-          "colorEncoding": 0,
-          "cullMode": 0,
-          "diffuseFactor": 4294639627,
-          "diffuseTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "doubleSided": true,
-          "emissiveEnabled": false,
-          "emissiveFactor": 4278190080,
-          "emissiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "identifier": "defaultMaterial:259-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "importIssues": {},
-          "invertMultiply": false,
-          "isDiffuseTextureIdentifierEnabled": false,
-          "isEmissiveTextureIdentifierEnabled": false,
-          "isMultiplyTextureIdentifierEnabled": false,
-          "isNormalTextureIdentifierEnabled": false,
-          "isReflectiveTextureIdentifierEnabled": false,
-          "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": true,
-          "modelName": "defaultMaterial",
-          "multiplyMode": 2,
-          "multiplyTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "name": "red",
-          "normalTextureScale": 1,
-          "normalTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "readDepth": true,
-          "reflectiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "shininessFactor": 1,
-          "specularTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "transparency": 0.5067958047945206,
-          "writeDepth": false,
-          "writesToColorBufferAlpha": true,
-          "writesToColorBufferBlue": true,
-          "writesToColorBufferGreen": true,
-          "writesToColorBufferRed": true
-        },
-        {
-          "alphaTestEnabled": false,
-          "alphaTestThreshold": 0,
-          "baseColorFactor": 4294967295,
-          "baseColorTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "blendMode": 5,
-          "colorEncoding": 1,
-          "cullMode": 0,
-          "diffuseEnvironmentTextureTransform": {
-            "rotationX": 0,
-            "rotationY": 0,
-            "rotationZ": 0
-          },
-          "diffuseTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "doubleSided": false,
-          "emissiveEnabled": false,
-          "emissiveFactor": 4278190080,
-          "emissiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "environmentEnabled": false,
-          "identifier": "dependent_metallic_roughness_p_b_r_material_model:491-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "importIssues": {},
-          "isBaseColorTextureIdentifierEnabled": false,
-          "isDiffuseEnvironmentTextureIdentifierEnabled": false,
-          "isDiffuseTextureIdentifierEnabled": false,
-          "isEmissiveTextureIdentifierEnabled": false,
-          "isMetallicRoughnessTextureIdentifierEnabled": false,
-          "isNormalTextureIdentifierEnabled": false,
-          "isOcclusionTextureIdentifierEnabled": false,
-          "isSpecularEnvironmentTextureIdentifierEnabled": false,
-          "metallicFactor": 0.10000000149011612,
-          "metallicRoughnessTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "modelName": "dependent_metallic_roughness_p_b_r_material_model",
-          "name": "Sphere_mat",
-          "normalTextureScale": 1,
-          "normalTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "occlusionStrength": 0,
-          "occlusionTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "readDepth": true,
-          "roughnessFactor": 0.5,
-          "sourceIdentifier": "asset_collection_model:508-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "specularEnvironmentTextureTransform": {
-            "rotationX": 0,
-            "rotationY": 0,
-            "rotationZ": 0
-          },
-          "transparency": 1,
-          "vertexColorEnabled": true,
-          "writeDepth": true,
-          "writesToColorBufferAlpha": true,
-          "writesToColorBufferBlue": true,
-          "writesToColorBufferGreen": true,
-          "writesToColorBufferRed": true
-        },
-        {
-          "alphaTestEnabled": false,
-          "alphaTestThreshold": 0,
-          "blendMode": 5,
-          "colorEncoding": 0,
-          "cullMode": 0,
-          "diffuseFactor": 4280483601,
-          "diffuseTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "doubleSided": false,
-          "emissiveEnabled": false,
-          "emissiveFactor": 4278190080,
-          "emissiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "identifier": "defaultMaterial:261-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "importIssues": {},
-          "invertMultiply": false,
-          "isDiffuseTextureIdentifierEnabled": false,
-          "isEmissiveTextureIdentifierEnabled": false,
-          "isMultiplyTextureIdentifierEnabled": false,
-          "isNormalTextureIdentifierEnabled": false,
-          "isReflectiveTextureIdentifierEnabled": false,
-          "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": true,
-          "modelName": "defaultMaterial",
-          "multiplyMode": 2,
-          "multiplyTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "name": "green",
-          "normalTextureScale": 1,
-          "normalTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "readDepth": true,
-          "reflectiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "shininessFactor": 1,
-          "specularTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "transparency": 1,
-          "writeDepth": true,
-          "writesToColorBufferAlpha": true,
-          "writesToColorBufferBlue": true,
-          "writesToColorBufferGreen": true,
-          "writesToColorBufferRed": true
-        },
-        {
-          "alphaTestEnabled": false,
-          "alphaTestThreshold": 0,
-          "baseColorFactor": 4294967295,
-          "baseColorTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "blendMode": 5,
-          "colorEncoding": 1,
-          "cullMode": 0,
-          "diffuseEnvironmentTextureTransform": {
-            "rotationX": 0,
-            "rotationY": 0,
-            "rotationZ": 0
-          },
-          "diffuseTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "doubleSided": false,
-          "emissiveEnabled": false,
-          "emissiveFactor": 4278190080,
-          "emissiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "environmentEnabled": false,
-          "identifier": "dependent_metallic_roughness_p_b_r_material_model:268-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "importIssues": {},
-          "isBaseColorTextureIdentifierEnabled": false,
-          "isDiffuseEnvironmentTextureIdentifierEnabled": false,
-          "isDiffuseTextureIdentifierEnabled": false,
-          "isEmissiveTextureIdentifierEnabled": false,
-          "isMetallicRoughnessTextureIdentifierEnabled": false,
-          "isNormalTextureIdentifierEnabled": false,
-          "isOcclusionTextureIdentifierEnabled": false,
-          "isSpecularEnvironmentTextureIdentifierEnabled": false,
-          "metallicFactor": 0.10000000149011612,
-          "metallicRoughnessTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "modelName": "dependent_metallic_roughness_p_b_r_material_model",
-          "name": "Cone_mat",
-          "normalTextureScale": 1,
-          "normalTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "occlusionStrength": 0,
-          "occlusionTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "readDepth": true,
-          "roughnessFactor": 0.5,
-          "sourceIdentifier": "asset_collection_model:285-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "specularEnvironmentTextureTransform": {
-            "rotationX": 0,
-            "rotationY": 0,
-            "rotationZ": 0
-          },
-          "transparency": 1,
-          "vertexColorEnabled": true,
-          "writeDepth": true,
-          "writesToColorBufferAlpha": true,
-          "writesToColorBufferBlue": true,
-          "writesToColorBufferGreen": true,
-          "writesToColorBufferRed": true
-        },
-        {
-          "alphaTestEnabled": false,
-          "alphaTestThreshold": 0,
-          "blendMode": 5,
-          "colorEncoding": 0,
-          "cullMode": 0,
-          "diffuseFactor": 4278197497,
-          "diffuseTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "doubleSided": false,
-          "emissiveEnabled": false,
-          "emissiveFactor": 4278190080,
-          "emissiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "identifier": "defaultMaterial:543-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "importIssues": {},
-          "invertMultiply": false,
-          "isDiffuseTextureIdentifierEnabled": false,
-          "isEmissiveTextureIdentifierEnabled": false,
-          "isMultiplyTextureIdentifierEnabled": false,
-          "isNormalTextureIdentifierEnabled": false,
-          "isReflectiveTextureIdentifierEnabled": false,
-          "isSpecularTextureIdentifierEnabled": false,
-          "lightingEnabled": true,
-          "modelName": "defaultMaterial",
-          "multiplyMode": 2,
-          "multiplyTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "name": "blue",
-          "normalTextureScale": 1,
-          "normalTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "readDepth": true,
-          "reflectiveTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "shininessFactor": 1,
-          "specularTextureTransform": {
-            "offsetU": 0,
-            "offsetV": 0,
-            "rotation": 0,
-            "scaleU": 1,
-            "scaleV": 1
-          },
-          "transparency": 1,
-          "writeDepth": true,
-          "writesToColorBufferAlpha": true,
-          "writesToColorBufferBlue": true,
-          "writesToColorBufferGreen": true,
-          "writesToColorBufferRed": true
-        }
-      ],
       "identifier": "materials:356-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "materials"
     },
     {
-      "children": [
-        {
-          "assetLocator": "500-04faed79-0c90-4f4c-ae37-9445e040273b.glb",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "gltf:499-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "isExternalAsset": false,
-          "modelName": "gltf",
-          "name": "gltf0",
-          "sourceIdentifier": "master3_d_object_model:504-04faed79-0c90-4f4c-ae37-9445e040273b"
-        },
-        {
-          "assetLocator": "277-699566f9-1cc6-453d-8091-b2567c1504b2.glb",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "gltf:276-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "isExternalAsset": false,
-          "modelName": "gltf",
-          "name": "gltf1",
-          "sourceIdentifier": "master3_d_object_model:281-699566f9-1cc6-453d-8091-b2567c1504b2"
-        }
-      ],
       "identifier": "prefabs:358-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "prefabs"
     },
     {
-      "children": [
-        {
-          "animationMask": {
-            "position": false,
-            "rotation": false,
-            "scale": false
-          },
-          "cameraVisibility": 3,
-          "children": [
-            {
-              "animationMask": {
-                "position": false,
-                "rotation": false,
-                "scale": false
-              },
-              "cameraVisibility": 3,
-              "castShadow": false,
-              "children": [
-                {
-                  "children": [
-                    {
-                      "identifier": "surface:502-04faed79-0c90-4f4c-ae37-9445e040273b",
-                      "isMaterialIdentifierEnabled": true,
-                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:491-04faed79-0c90-4f4c-ae37-9445e040273b",
-                      "modelName": "surface",
-                      "name": "surface0",
-                      "surfaceGroupIdentifier": ""
-                    }
-                  ],
-                  "identifier": "surfaces:495-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "surfaces"
-                },
-                {
-                  "identifier": "blend_shapes_model:497-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "blend_shapes_model"
-                }
-              ],
-              "hidden": false,
-              "identifier": "mesh:493-04faed79-0c90-4f4c-ae37-9445e040273b",
-              "layerIdentifier": "layer0",
-              "modelName": "mesh",
-              "name": "Sphere",
-              "outputVisibility": 3,
-              "physicsEnabled": false,
-              "prefabIdentifier": "gltf:499-04faed79-0c90-4f4c-ae37-9445e040273b",
-              "receiveShadow": false,
-              "renderPass": 2,
-              "tags": [],
-              "transform": {
-                "rx": 0,
-                "ry": 0,
-                "rz": 0,
-                "sx": 1,
-                "sy": 1,
-                "sz": 1,
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "useEmbeddedBlendshapes": false
-            }
-          ],
-          "globalScaleFactor": 1,
-          "hidden": false,
-          "identifier": "master3_d_object_model:504-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "layerIdentifier": "layer0",
-          "modelName": "master3_d_object_model",
-          "name": "Sphere",
-          "outputVisibility": 3,
-          "physicsEnabled": false,
-          "sourceIdentifier": "asset_collection_model:508-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "tags": [],
-          "transform": {
-            "rx": 0,
-            "ry": 0,
-            "rz": 0,
-            "sx": 1,
-            "sy": 1,
-            "sz": 1,
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "animationMask": {
-            "position": false,
-            "rotation": false,
-            "scale": false
-          },
-          "cameraVisibility": 3,
-          "children": [
-            {
-              "animationMask": {
-                "position": false,
-                "rotation": false,
-                "scale": false
-              },
-              "cameraVisibility": 3,
-              "castShadow": false,
-              "children": [
-                {
-                  "children": [
-                    {
-                      "identifier": "surface:279-699566f9-1cc6-453d-8091-b2567c1504b2",
-                      "isMaterialIdentifierEnabled": true,
-                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:268-699566f9-1cc6-453d-8091-b2567c1504b2",
-                      "modelName": "surface",
-                      "name": "surface0",
-                      "surfaceGroupIdentifier": ""
-                    }
-                  ],
-                  "identifier": "surfaces:272-699566f9-1cc6-453d-8091-b2567c1504b2",
-                  "modelName": "surfaces"
-                },
-                {
-                  "identifier": "blend_shapes_model:274-699566f9-1cc6-453d-8091-b2567c1504b2",
-                  "modelName": "blend_shapes_model"
-                }
-              ],
-              "hidden": false,
-              "identifier": "mesh:270-699566f9-1cc6-453d-8091-b2567c1504b2",
-              "layerIdentifier": "layer0",
-              "modelName": "mesh",
-              "name": "Cone",
-              "outputVisibility": 3,
-              "physicsEnabled": false,
-              "prefabIdentifier": "gltf:276-699566f9-1cc6-453d-8091-b2567c1504b2",
-              "receiveShadow": false,
-              "renderPass": 2,
-              "tags": [],
-              "transform": {
-                "rx": 0,
-                "ry": 0,
-                "rz": 0,
-                "sx": 1,
-                "sy": 1,
-                "sz": 1,
-                "x": 0,
-                "y": 0,
-                "z": 0
-              },
-              "useEmbeddedBlendshapes": false
-            }
-          ],
-          "globalScaleFactor": 1,
-          "hidden": false,
-          "identifier": "master3_d_object_model:281-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "layerIdentifier": "layer0",
-          "modelName": "master3_d_object_model",
-          "name": "Cone",
-          "outputVisibility": 3,
-          "physicsEnabled": false,
-          "sourceIdentifier": "asset_collection_model:285-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "tags": [],
-          "transform": {
-            "rx": 0,
-            "ry": 0,
-            "rz": 0,
-            "sx": 1,
-            "sy": 1,
-            "sz": 1,
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        }
-      ],
       "identifier": "3_d_objects_model:360-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "3_d_objects_model"
     },
@@ -624,7 +29,7 @@
         "rotation": false,
         "scale": false
       },
-      "cameraVisibility": 3,
+      "cameraVisibility": "back|front",
       "children": [
         {
           "animationMask": {
@@ -632,7 +37,7 @@
             "rotation": false,
             "scale": false
           },
-          "cameraVisibility": 3,
+          "cameraVisibility": "back|front",
           "children": [
             {
               "animationMask": {
@@ -640,7 +45,7 @@
                 "rotation": false,
                 "scale": false
               },
-              "cameraVisibility": 3,
+              "cameraVisibility": "back|front",
               "children": [
                 {
                   "animationMask": {
@@ -648,7 +53,7 @@
                     "rotation": false,
                     "scale": false
                   },
-                  "cameraVisibility": 3,
+                  "cameraVisibility": "back|front",
                   "children": [
                     {
                       "animationMask": {
@@ -656,15 +61,15 @@
                         "rotation": false,
                         "scale": false
                       },
-                      "cameraVisibility": 3,
-                      "color": 4294967295,
+                      "cameraVisibility": "back|front",
+                      "color": "0xffffffff",
                       "hidden": false,
                       "identifier": "ambient_light_source_model:434-04faed79-0c90-4f4c-ae37-9445e040273b",
                       "intensity": 0.20000000298023224,
                       "layerIdentifier": "layer0",
                       "modelName": "ambient_light_source_model",
                       "name": "ambientLight0",
-                      "outputVisibility": 3,
+                      "outputVisibility": "preview|capture",
                       "physicsEnabled": false,
                       "tags": [],
                       "transform": {
@@ -685,16 +90,16 @@
                         "rotation": false,
                         "scale": false
                       },
-                      "cameraVisibility": 3,
+                      "cameraVisibility": "back|front",
                       "castShadow": false,
-                      "color": 4294967295,
+                      "color": "0xffffffff",
                       "hidden": false,
                       "identifier": "directional_light_source_model:436-04faed79-0c90-4f4c-ae37-9445e040273b",
                       "intensity": 0.800000011920929,
                       "layerIdentifier": "layer0",
                       "modelName": "directional_light_source_model",
                       "name": "directionalLight0",
-                      "outputVisibility": 3,
+                      "outputVisibility": "preview|capture",
                       "physicsEnabled": false,
                       "shadowBias": 0,
                       "shadowFrustumDepth": 1,
@@ -722,303 +127,26 @@
                         "rotation": false,
                         "scale": false
                       },
-                      "cameraVisibility": 3,
-                      "children": [
-                        {
-                          "animationMask": {
-                            "position": false,
-                            "rotation": false,
-                            "scale": false
-                          },
-                          "cameraVisibility": 3,
-                          "children": [
-                            {
-                              "animationMask": {
-                                "position": false,
-                                "rotation": false,
-                                "scale": false
-                              },
-                              "cameraVisibility": 3,
-                              "castShadow": false,
-                              "children": [
-                                {
-                                  "animationMask": {
-                                    "position": false,
-                                    "rotation": false,
-                                    "scale": false
-                                  },
-                                  "cameraVisibility": 3,
-                                  "children": [
-                                    {
-                                      "animationMask": {
-                                        "position": false,
-                                        "rotation": false,
-                                        "scale": false
-                                      },
-                                      "cameraVisibility": 3,
-                                      "castShadow": false,
-                                      "children": [
-                                        {
-                                          "children": [
-                                            {
-                                              "identifier": "surface:353-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                              "isMaterialIdentifierEnabled": true,
-                                              "materialIdentifier": "defaultMaterial:543-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                              "modelName": "surface",
-                                              "name": "surface0",
-                                              "sourceIdentifier": "surface:279-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                              "surfaceGroupIdentifier": ""
-                                            }
-                                          ],
-                                          "identifier": "surfaces:350-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                          "modelName": "surfaces",
-                                          "sourceIdentifier": "surfaces:272-699566f9-1cc6-453d-8091-b2567c1504b2"
-                                        },
-                                        {
-                                          "identifier": "blend_shapes_model:356-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                          "modelName": "blend_shapes_model",
-                                          "sourceIdentifier": "blend_shapes_model:274-699566f9-1cc6-453d-8091-b2567c1504b2"
-                                        }
-                                      ],
-                                      "hidden": false,
-                                      "identifier": "mesh:347-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                      "layerIdentifier": "layer0",
-                                      "modelName": "mesh",
-                                      "name": "Cone",
-                                      "outputVisibility": 3,
-                                      "physicsEnabled": false,
-                                      "prefabIdentifier": "gltf:276-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                      "receiveShadow": false,
-                                      "renderPass": 2,
-                                      "sourceIdentifier": "mesh:270-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                      "tags": [],
-                                      "transform": {
-                                        "rx": 0,
-                                        "ry": 0,
-                                        "rz": 0,
-                                        "sx": 1,
-                                        "sy": 1,
-                                        "sz": 1,
-                                        "x": 0,
-                                        "y": 0,
-                                        "z": 0
-                                      },
-                                      "useEmbeddedBlendshapes": false
-                                    }
-                                  ],
-                                  "hidden": false,
-                                  "identifier": "master3_d_object_model:344-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                  "layerIdentifier": "layer0",
-                                  "modelName": "3_d_object_instance_model",
-                                  "name": "Cone",
-                                  "outputVisibility": 3,
-                                  "physicsEnabled": false,
-                                  "sourceIdentifier": "master3_d_object_model:281-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                  "tags": [],
-                                  "transform": {
-                                    "rx": 1.5707963705062866,
-                                    "ry": 8.526514184373918E-14,
-                                    "rz": 0,
-                                    "sx": 0.9999998807907104,
-                                    "sy": 1,
-                                    "sz": 1,
-                                    "x": -4.188129665294582E-8,
-                                    "y": -1.981021346963985E-9,
-                                    "z": 0.028795331716537476
-                                  }
-                                }
-                              ],
-                              "hidden": false,
-                              "horizontalAlignment": 1,
-                              "horizontalSpacing": 0,
-                              "identifier": "plane:455-04faed79-0c90-4f4c-ae37-9445e040273b",
-                              "isMaterialIdentifierEnabled": true,
-                              "layerIdentifier": "layer0",
-                              "materialIdentifier": "defaultMaterial:259-699566f9-1cc6-453d-8091-b2567c1504b2",
-                              "modelName": "plane",
-                              "name": "plane0",
-                              "outputVisibility": 3,
-                              "physicsEnabled": false,
-                              "receiveShadow": false,
-                              "renderPass": 2,
-                              "tags": [],
-                              "textureHeight": 0.1,
-                              "textureWidth": 0.1,
-                              "transform": {
-                                "rx": 0,
-                                "ry": -0,
-                                "rz": 8.326672684688674E-17,
-                                "sx": 1,
-                                "sy": 1,
-                                "sz": 1,
-                                "x": 0,
-                                "y": 0,
-                                "z": 0
-                              },
-                              "verticalAlignment": 1,
-                              "verticalSpacing": 0
-                            }
-                          ],
-                          "hidden": false,
-                          "identifier": "sceneObject:109974-2a7a2d19-c7bb-4f4a-8147-3f72c23bf2f6",
-                          "layerIdentifier": "layer0",
-                          "modelName": "sceneObject",
-                          "name": "lookatNull",
-                          "outputVisibility": 3,
-                          "physicsEnabled": false,
-                          "shapeColor": 4286611584,
-                          "shapeType": 0,
-                          "tags": [],
-                          "transform": {
-                            "rx": -0,
-                            "ry": -0,
-                            "rz": -2.7755578924351364E-17,
-                            "sx": 2,
-                            "sy": 2,
-                            "sz": 2,
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                          }
-                        }
-                      ],
+                      "cameraVisibility": "back|front",
+                      "customPortValues": {},
                       "hidden": false,
-                      "identifier": "sceneObject:475-04faed79-0c90-4f4c-ae37-9445e040273b",
+                      "identifier": "block_scene_model:93237-33fdd59e-80d0-4f5d-96cc-50cc69ca3888",
                       "layerIdentifier": "layer0",
-                      "modelName": "sceneObject",
-                      "name": "followNull",
-                      "outputVisibility": 3,
+                      "modelName": "block_scene_model",
+                      "name": "lookat",
+                      "outputVisibility": "preview|capture",
                       "physicsEnabled": false,
-                      "shapeColor": 4286611584,
-                      "shapeType": 0,
                       "tags": [],
                       "transform": {
-                        "rx": 3.7252898543727042E-9,
-                        "ry": -7.450580596923828E-9,
-                        "rz": 4.656612873077393E-10,
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
                         "sx": 1,
                         "sy": 1,
-                        "sz": 1.0000001192092896,
-                        "x": 0.006115533411502838,
-                        "y": -0.0000019762810552492738,
-                        "z": -1.1920928955078125E-7
-                      }
-                    },
-                    {
-                      "animationMask": {
-                        "position": false,
-                        "rotation": false,
-                        "scale": false
-                      },
-                      "cameraVisibility": 3,
-                      "children": [
-                        {
-                          "animationMask": {
-                            "position": false,
-                            "rotation": false,
-                            "scale": false
-                          },
-                          "cameraVisibility": 3,
-                          "children": [
-                            {
-                              "animationMask": {
-                                "position": false,
-                                "rotation": false,
-                                "scale": false
-                              },
-                              "cameraVisibility": 3,
-                              "castShadow": false,
-                              "children": [
-                                {
-                                  "children": [
-                                    {
-                                      "identifier": "surface:554-04faed79-0c90-4f4c-ae37-9445e040273b",
-                                      "isMaterialIdentifierEnabled": true,
-                                      "materialIdentifier": "defaultMaterial:261-699566f9-1cc6-453d-8091-b2567c1504b2",
-                                      "modelName": "surface",
-                                      "name": "surface0",
-                                      "sourceIdentifier": "surface:502-04faed79-0c90-4f4c-ae37-9445e040273b",
-                                      "surfaceGroupIdentifier": ""
-                                    }
-                                  ],
-                                  "identifier": "surfaces:551-04faed79-0c90-4f4c-ae37-9445e040273b",
-                                  "modelName": "surfaces",
-                                  "sourceIdentifier": "surfaces:495-04faed79-0c90-4f4c-ae37-9445e040273b"
-                                },
-                                {
-                                  "identifier": "blend_shapes_model:557-04faed79-0c90-4f4c-ae37-9445e040273b",
-                                  "modelName": "blend_shapes_model",
-                                  "sourceIdentifier": "blend_shapes_model:497-04faed79-0c90-4f4c-ae37-9445e040273b"
-                                }
-                              ],
-                              "hidden": false,
-                              "identifier": "mesh:548-04faed79-0c90-4f4c-ae37-9445e040273b",
-                              "layerIdentifier": "layer0",
-                              "modelName": "mesh",
-                              "name": "Sphere",
-                              "outputVisibility": 3,
-                              "physicsEnabled": false,
-                              "prefabIdentifier": "gltf:499-04faed79-0c90-4f4c-ae37-9445e040273b",
-                              "receiveShadow": false,
-                              "renderPass": 2,
-                              "sourceIdentifier": "mesh:493-04faed79-0c90-4f4c-ae37-9445e040273b",
-                              "tags": [],
-                              "transform": {
-                                "rx": 3.7252894102834944E-9,
-                                "ry": -1.4901161193847656E-8,
-                                "rz": 4.656612873077393E-10,
-                                "sx": 1,
-                                "sy": 1,
-                                "sz": 1.000000238418579,
-                                "x": 0,
-                                "y": 0,
-                                "z": 0
-                              },
-                              "useEmbeddedBlendshapes": false
-                            }
-                          ],
-                          "hidden": false,
-                          "identifier": "master3_d_object_model:545-04faed79-0c90-4f4c-ae37-9445e040273b",
-                          "layerIdentifier": "layer0",
-                          "modelName": "3_d_object_instance_model",
-                          "name": "Sphere",
-                          "outputVisibility": 3,
-                          "physicsEnabled": false,
-                          "sourceIdentifier": "master3_d_object_model:504-04faed79-0c90-4f4c-ae37-9445e040273b",
-                          "tags": [],
-                          "transform": {
-                            "rx": 0,
-                            "ry": 0,
-                            "rz": 0,
-                            "sx": 1,
-                            "sy": 1,
-                            "sz": 1,
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                          }
-                        }
-                      ],
-                      "hidden": false,
-                      "identifier": "sceneObject:481-04faed79-0c90-4f4c-ae37-9445e040273b",
-                      "layerIdentifier": "layer0",
-                      "modelName": "sceneObject",
-                      "name": "targetNull",
-                      "outputVisibility": 3,
-                      "physicsEnabled": false,
-                      "shapeColor": 4286611584,
-                      "shapeType": 0,
-                      "tags": [],
-                      "transform": {
-                        "rx": 1.4901157641133977E-8,
-                        "ry": -3.725290298461914E-8,
-                        "rz": 1.862645149230957E-9,
-                        "sx": 1,
-                        "sy": 1,
-                        "sz": 1.000000238418579,
-                        "x": -0.23256200551986694,
-                        "y": 0.00015303677355404943,
-                        "z": 0.07664623856544495
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
                       }
                     }
                   ],
@@ -1027,7 +155,7 @@
                   "layerIdentifier": "layer0",
                   "modelName": "focalDistance",
                   "name": "Focal Distance",
-                  "outputVisibility": 3,
+                  "outputVisibility": "preview|capture",
                   "physicsEnabled": false,
                   "tags": [],
                   "transform": {
@@ -1048,9 +176,9 @@
               "layerIdentifier": "layer0",
               "modelName": "camera",
               "name": "Camera",
-              "outputVisibility": 3,
+              "outputVisibility": "preview|capture",
               "physicsEnabled": false,
-              "projectionType": 0,
+              "projectionType": "perspective",
               "tags": [],
               "transform": {
                 "rx": 0,
@@ -1063,7 +191,7 @@
                 "y": 0,
                 "z": 0
               },
-              "updateSource": 0
+              "updateSource": "gyro"
             },
             {
               "animationMask": {
@@ -1071,16 +199,16 @@
                 "rotation": false,
                 "scale": false
               },
-              "cameraVisibility": 3,
+              "cameraVisibility": "back|front",
               "disabled": false,
               "hidden": false,
               "identifier": "microphone_model:428-04faed79-0c90-4f4c-ae37-9445e040273b",
               "layerIdentifier": "layer0",
               "modelName": "microphone_model",
               "name": "Microphone",
-              "outputVisibility": 3,
+              "outputVisibility": "preview|capture",
               "physicsEnabled": false,
-              "previewAudioSource": 0,
+              "previewAudioSource": "default",
               "tags": [],
               "transform": {
                 "rx": 0,
@@ -1100,7 +228,7 @@
           "layerIdentifier": "layer0",
           "modelName": "device",
           "name": "Device",
-          "outputVisibility": 3,
+          "outputVisibility": "preview|capture",
           "physicsEnabled": false,
           "tags": [],
           "transform": {
@@ -1119,7 +247,7 @@
       "hidden": false,
       "identifier": "scene:362-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "scene",
-      "outputVisibility": 3,
+      "outputVisibility": "preview|capture",
       "physicsEnabled": false,
       "tags": [],
       "transform": {
@@ -1137,7 +265,7 @@
     {
       "children": [
         {
-          "color": 4287394507,
+          "color": "0xff8c72cb",
           "generationIndex": 0,
           "hidden": false,
           "identifier": "layer:430-04faed79-0c90-4f4c-ae37-9445e040273b",
@@ -1153,62 +281,6 @@
       "modelName": "animations_model"
     },
     {
-      "children": [
-        {
-          "applicationData": null,
-          "assetDataHash": "0f6a6d80b2e77367b8f45cf504cc8508",
-          "assetLocator": "objects/Sphere/Sphere.gltf",
-          "children": [
-            {
-              "identifier": "unsupportedFeatures:506-04faed79-0c90-4f4c-ae37-9445e040273b",
-              "modelName": "unsupportedFeatures",
-              "name": "unsupportedFeatures0",
-              "namesForFeatureType": {
-                "Material": [
-                  "Sphere_mat"
-                ]
-              }
-            }
-          ],
-          "excludeDuringExport": true,
-          "excludeFromPackage": false,
-          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/three_d_object/2462000140790485",
-          "identifier": "asset_collection_model:508-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "importIssues": {},
-          "isExternalAsset": true,
-          "master3DInstanceSourceHash": "7e8d8f8c734a0363ab13d18948c7ad7f",
-          "modelName": "asset_collection_model",
-          "name": "Sphere",
-          "wasAutoResized": false
-        },
-        {
-          "applicationData": null,
-          "assetDataHash": "901c354f2a38b69c622a3140490696c6",
-          "assetLocator": "objects/Cone/Cone.gltf",
-          "children": [
-            {
-              "identifier": "unsupportedFeatures:283-699566f9-1cc6-453d-8091-b2567c1504b2",
-              "modelName": "unsupportedFeatures",
-              "name": "unsupportedFeatures0",
-              "namesForFeatureType": {
-                "Material": [
-                  "Cone_mat"
-                ]
-              }
-            }
-          ],
-          "excludeDuringExport": true,
-          "excludeFromPackage": false,
-          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/three_d_object/2132406417069324",
-          "identifier": "asset_collection_model:285-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "importIssues": {},
-          "isExternalAsset": true,
-          "master3DInstanceSourceHash": "c5671837180617763397bd79dea2b411",
-          "modelName": "asset_collection_model",
-          "name": "Cone",
-          "wasAutoResized": false
-        }
-      ],
       "identifier": "asset_collections_model:368-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "asset_collections_model"
     },
@@ -1219,53 +291,6 @@
     {
       "identifier": "components_model:372-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "components_model"
-    },
-    {
-      "children": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "identifier": "patches_model:440-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "patches_model"
-                },
-                {
-                  "identifier": "connections_model:442-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "connections_model"
-                },
-                {
-                  "identifier": "patch_input_ports_model:444-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "patch_input_ports_model"
-                },
-                {
-                  "identifier": "patch_output_ports_model:446-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "modelName": "patch_output_ports_model"
-                },
-                {
-                  "hidden": false,
-                  "identifier": "patch_metadata_model:448-04faed79-0c90-4f4c-ae37-9445e040273b",
-                  "internalGroup": false,
-                  "modelName": "patch_metadata_model",
-                  "position": [
-                    0,
-                    0
-                  ],
-                  "preferredGenericType": 0
-                }
-              ],
-              "identifier": "patch_model:438-04faed79-0c90-4f4c-ae37-9445e040273b",
-              "modelName": "patch_model",
-              "name": "kRootPatchName"
-            }
-          ],
-          "identifier": "patch_graph_model:432-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "modelName": "patch_graph_model",
-          "valuesMap": {}
-        }
-      ],
-      "identifier": "patch_graphs_model:374-04faed79-0c90-4f4c-ae37-9445e040273b",
-      "modelName": "patch_graphs_model"
     },
     {
       "identifier": "patch_assets_model:378-04faed79-0c90-4f4c-ae37-9445e040273b",
@@ -1284,36 +309,6 @@
         {
           "identifier": "script_bridging_variables_model:386-04faed79-0c90-4f4c-ae37-9445e040273b",
           "modelName": "script_bridging_variables_model"
-        },
-        {
-          "assetDataHash": "a6b8fe84c8b9984ed966f35b4271fa71",
-          "assetLocator": "scripts/lookat.js",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "script:450-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "isExternalAsset": true,
-          "modelName": "script",
-          "name": "lookat.js"
-        },
-        {
-          "assetDataHash": "6902c505fda458c8cba4c2ca95c22ec2",
-          "assetLocator": "scripts/lerpPosition.js",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "script:100153-abc8e7a3-e0b2-4018-9b96-6c7bc00878c2",
-          "isExternalAsset": true,
-          "modelName": "script",
-          "name": "lerpPosition.js"
-        },
-        {
-          "assetDataHash": "ffa2ca68e016f16816b176fd56c4f77d",
-          "assetLocator": "scripts/RandomPosition.js",
-          "excludeDuringExport": false,
-          "excludeFromPackage": false,
-          "identifier": "script:108030-2a7a2d19-c7bb-4f4a-8147-3f72c23bf2f6",
-          "isExternalAsset": true,
-          "modelName": "script",
-          "name": "RandomPosition.js"
         }
       ],
       "identifier": "scripts_model:384-04faed79-0c90-4f4c-ae37-9445e040273b",
@@ -1334,24 +329,24 @@
       "modelName": "internal_sounds_model"
     },
     {
-      "basicCompressionAccuracy": 2,
+      "basicCompressionAccuracy": "normal",
       "basicCompressionFormat": 0,
-      "basicCompressionMethod": 0,
+      "basicCompressionMethod": "fastest",
       "basicSmartQuality": 100,
-      "basicSmartTextureTargetSizeLimit": 0,
-      "etcCompressionAccuracy": 2,
+      "basicSmartTextureTargetSizeLimit": "max1024",
+      "etcCompressionAccuracy": "normal",
       "etcCompressionFormat": 0,
       "etcSmartQuality": 100,
-      "etcSmartTextureTargetSizeLimit": 0,
+      "etcSmartTextureTargetSizeLimit": "max1024",
       "globalCompressionDefaultOn": true,
       "globalSmartQuality": 75,
-      "globalSmartTextureTargetSizeLimit": 0,
+      "globalSmartTextureTargetSizeLimit": "max1024",
       "identifier": "exportConfig:394-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "exportConfig",
-      "pvrCompressionAccuracy": 2,
+      "pvrCompressionAccuracy": "normal",
       "pvrCompressionFormat": 0,
       "pvrSmartQuality": 100,
-      "pvrSmartTextureTargetSizeLimit": 0,
+      "pvrSmartTextureTargetSizeLimit": "max1024",
       "useDitheringForEtc": false,
       "useDitheringForPvr": false,
       "useSmartCompressionGlobally": true
@@ -1369,7 +364,7 @@
       "audioEnableAudioGraphComponents": false,
       "audioEnableAudioTransformationsApi": false,
       "bodyTrackingMinVersion": 2,
-      "cameraControlDefaultCameraFacing": 0,
+      "cameraControlDefaultCameraFacing": "unspecified",
       "dynamicTextAltitude": false,
       "dynamicTextDate": false,
       "dynamicTextLocation": false,
@@ -1384,11 +379,12 @@
       "effectHasTriggeredAudio": false,
       "effectImageAntiAliasingEdgeSharpness": 0.5,
       "effectImageAntiAliasingEdgeThreshold": 0.5,
-      "effectImageAntiAliasingTechnique": 0,
+      "effectImageAntiAliasingTechnique": "fxaa",
       "effectRecordingFromMic": false,
       "effectUses4KTextures": false,
-      "effectUsesAnimationPlaybackController": false,
-      "effectUsesAnimationScriptingModule": false,
+      "effectUsesAnimationPlaybackController": true,
+      "effectUsesAnimationScriptingModule": true,
+      "effectUsesAppLauncher": false,
       "effectUsesAssistant": false,
       "effectUsesAudio": false,
       "effectUsesAudioLegacyMicFork": false,
@@ -1401,9 +397,9 @@
       "effectUsesAutomaticAlphaSort": false,
       "effectUsesAutomaticInstructions": true,
       "effectUsesBlockModulesConfigExtras": false,
-      "effectUsesBlocks": false,
+      "effectUsesBlocks": true,
       "effectUsesBlocksDownloadable": false,
-      "effectUsesBlocksScripting": false,
+      "effectUsesBlocksScripting": true,
       "effectUsesBodyTracking": false,
       "effectUsesBodyTracking2DKeyPoints": false,
       "effectUsesBoundingBoxScripting": false,
@@ -1411,7 +407,7 @@
       "effectUsesCameraControl": false,
       "effectUsesCameraInfoScriptingModule": false,
       "effectUsesCameraShare": false,
-      "effectUsesComponentEvaluation": false,
+      "effectUsesComponentEvaluation": true,
       "effectUsesComposedLocally": false,
       "effectUsesComposedMaterial": false,
       "effectUsesControllers": false,
@@ -1428,7 +424,7 @@
       "effectUsesDepthData": false,
       "effectUsesDepthShaderRead": false,
       "effectUsesDeviceMotion": false,
-      "effectUsesDiagnosticsScriptingModule": false,
+      "effectUsesDiagnosticsScriptingModule": true,
       "effectUsesDirectionalLightEstimation": false,
       "effectUsesDspAudioAnalyzer": false,
       "effectUsesDspBitCrusher": false,
@@ -1451,7 +447,6 @@
       "effectUsesExperienceControl": false,
       "effectUsesExternalBlocks": false,
       "effectUsesExternalFonts": false,
-      "effectUsesExternalMeshes": false,
       "effectUsesExternalMusicSelection": false,
       "effectUsesExternalTextures": false,
       "effectUsesExternalTexturesAudio": false,
@@ -1493,7 +488,6 @@
       "effectUsesHmdNetworkingAPI": false,
       "effectUsesI18n": false,
       "effectUsesIdTracker": false,
-      "effectUsesIdentity": false,
       "effectUsesImageAntiAliasing": false,
       "effectUsesImageAssets": false,
       "effectUsesImageBasedLighting": false,
@@ -1502,15 +496,14 @@
       "effectUsesInterEffectLinking": false,
       "effectUsesInternalScriptingAPI": false,
       "effectUsesIrisTracking": false,
-      "effectUsesJavaScript": true,
+      "effectUsesJavaScript": false,
       "effectUsesJavaScriptRuntimeForPatches": false,
       "effectUsesJavaScriptScripting": true,
       "effectUsesJavaScriptShaders": false,
-      "effectUsesJavascriptToPatchesBridging": false,
+      "effectUsesJavascriptToPatchesBridging": true,
       "effectUsesLandmarkAR": false,
       "effectUsesLayers": false,
       "effectUsesLiveStreaming": false,
-      "effectUsesLocalDiscovery": false,
       "effectUsesLocale": false,
       "effectUsesLocation": false,
       "effectUsesLocationAirportData": false,
@@ -1526,6 +519,7 @@
       "effectUsesMusic": false,
       "effectUsesNativeUIControl": false,
       "effectUsesNativeUIControlEditableText": false,
+      "effectUsesNativeUIControlEditableTextExitCB": false,
       "effectUsesNativeUIControlPicker": false,
       "effectUsesNativeUIControlPickerRemoteImages": false,
       "effectUsesNativeUIControlPickerTooltip": false,
@@ -1541,8 +535,7 @@
       "effectUsesOpticalFlow": false,
       "effectUsesOpusCodec": false,
       "effectUsesOverlayOutput": false,
-      "effectUsesPBRMaterial": true,
-      "effectUsesPageScopedIdentity": false,
+      "effectUsesPBRMaterial": false,
       "effectUsesParticipant": false,
       "effectUsesParticleSystem": false,
       "effectUsesPeerOutput": false,
@@ -1566,7 +559,7 @@
       "effectUsesPreviewCaptureOutputs": false,
       "effectUsesRGBCameraTexture": false,
       "effectUsesRTRMapping": false,
-      "effectUsesRandomScriptingModule": false,
+      "effectUsesRandomScriptingModule": true,
       "effectUsesReactiveScriptingModule": true,
       "effectUsesRealScaleEstimation": false,
       "effectUsesRealScaleEstimationWithFallback": false,
@@ -1633,7 +626,7 @@
       "effectUsesWorldUnderstanding": false,
       "effectUsesWorldUnderstandingV2": false,
       "effectUsesWriteableSignalSource": false,
-      "engineSDKVersion": "170.0",
+      "engineSDKVersion": "171.0",
       "externalTexturesWhitelistedDomains": [],
       "faceExpressionFittingMinVersion": 15,
       "faceExpressionFittingRTRRetargetingMinVersion": 1,
@@ -1668,13 +661,13 @@
       "landmarkMeshID": null,
       "landmarkMeshType": null,
       "liveEffectSupportsNonLive": false,
-      "manuallyEnabledItemsIds": null,
+      "manuallyEnabledItemsIds": [],
       "maxParticipantsCount": 0,
       "modelName": "manifest",
       "multiclassSegmentationMinVersion": 3004,
       "objectTrackerMaxObjects": 1,
       "persistenceWhitelistedKeys": null,
-      "personalizationSpecialOccasion": 0,
+      "personalizationSpecialOccasion": "none",
       "platformUsage": {},
       "recognitionMinVersion": 2,
       "ringTryOnMinVersion": 1,
@@ -1698,43 +691,14 @@
       "witClientToken": null,
       "worldTrackerBackCameraEnabled": true,
       "worldTrackerFrontCameraEnabled": true,
-      "worldTrackerMode": 0,
+      "worldTrackerMode": "plane",
       "worldTrackerUsesFaceTracker": false
     },
     {
-      "children": [
-        {
-          "assetAuthor": "Spark AR Assets",
-          "assetModelIdentifier": "asset_collection_model:508-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "assetTitle": "Sphere Primitive",
-          "assetURLString": "",
-          "identifier": "asset_attribution_model:512-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "licenseModelIdentifier": "license_model:510-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "modelName": "asset_attribution_model"
-        },
-        {
-          "assetAuthor": "Spark AR Assets",
-          "assetModelIdentifier": "asset_collection_model:285-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "assetTitle": "Cone Primitive",
-          "assetURLString": "",
-          "identifier": "asset_attribution_model:287-699566f9-1cc6-453d-8091-b2567c1504b2",
-          "licenseModelIdentifier": "license_model:510-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "modelName": "asset_attribution_model"
-        }
-      ],
       "identifier": "asset_attributions_model:402-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "asset_attributions_model"
     },
     {
-      "children": [
-        {
-          "identifier": "license_model:510-04faed79-0c90-4f4c-ae37-9445e040273b",
-          "linkURLString": "https://creativecommons.org/licenses/by/4.0/",
-          "modelName": "license_model",
-          "name": "Creative Commons Attribution 4.0",
-          "slug": "CC BY 4.0"
-        }
-      ],
       "identifier": "licenses_model:404-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "licenses_model"
     },
@@ -1743,6 +707,22 @@
       "modelName": "playback_controllers_model"
     },
     {
+      "children": [
+        {
+          "assetDataHash": "ef5bc37d5663bcfde26251a401163551",
+          "assetLocator": "blocks/lookat/lookat.arblock",
+          "downloadable": false,
+          "excludeDuringExport": true,
+          "excludeFromPackage": false,
+          "identifier": "block_model:93047-33fdd59e-80d0-4f5d-96cc-50cc69ca3888",
+          "instances": [
+            "block_scene_model:93237-33fdd59e-80d0-4f5d-96cc-50cc69ca3888"
+          ],
+          "isExternalAsset": true,
+          "modelName": "block_model",
+          "name": "lookat"
+        }
+      ],
       "identifier": "block_documents_model:408-04faed79-0c90-4f4c-ae37-9445e040273b",
       "modelName": "block_documents_model"
     },
@@ -1810,6 +790,10 @@
     {
       "identifier": "strings_files_model:107634-2a7a2d19-c7bb-4f4a-8147-3f72c23bf2f6",
       "modelName": "strings_files_model"
+    },
+    {
+      "identifier": "patch_graphs_model:2909-33fdd59e-80d0-4f5d-96cc-50cc69ca3888",
+      "modelName": "patch_graphs_model"
     }
   ],
   "creatorFileVersion": {
@@ -1819,28 +803,35 @@
   },
   "creatorIdentifier": "com.facebook.arstudio.skylight",
   "creatorPlatform": "windows",
-  "documentType": 0,
+  "documentType": "effect",
   "id": "34804faed790c904f4cae379445e040273b",
   "identifier": "document:350-04faed79-0c90-4f4c-ae37-9445e040273b",
-  "measurementUnit": 0,
+  "measurementUnit": "meter",
   "modelName": "document",
   "name": "Effect",
   "objects": [
     {
       "categoriesOrder": [
-        1,
-        4
+        "blocks"
       ],
       "identifier": "assets_config_model:92442-abc8e7a3-e0b2-4018-9b96-6c7bc00878c2",
       "modelName": "assets_config_model"
     }
   ],
-  "projectFormatType": 0,
+  "projectFormatType": "single_file",
   "revision": "34904faed790c904f4cae379445e040273b",
-  "usingPatchesV2": false,
+  "usingPatchesV2": true,
   "version": {
     "dev": 0,
     "patch": 0,
-    "prod": 170
+    "prod": 171
+  },
+  "visual_programming": {
+    "graphs": [
+      {
+        "identifier": "patch_graph:432-04faed79-0c90-4f4c-ae37-9445e040273b",
+        "modelName": "patch_graph"
+      }
+    ]
   }
 }
